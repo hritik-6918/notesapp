@@ -1,3 +1,5 @@
+https://github.com/user-attachments/assets/c2e1af23-e1b1-4183-a6e1-f61bc736c291
+
 # NotesApp (React + Vite + AWS Amplify)
 
 ## Overview
